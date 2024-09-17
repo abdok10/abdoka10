@@ -12,11 +12,13 @@ A passionate Fullstack Developer with a strong foundation in both frontend and b
 
 ##  Connect with Me
 <p align="left">
-  <a href="https://twitter.com/AbdoKa101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachid09" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/abdo-karchaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachid-ahsoune-308a971a3" height="30" width="40" /></a>
-<!--   <a href="https://fb.com/rachid.ahsoune09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rachid.ahsoune09" height="30" width="40" /></a>
-</p> -->
-<br />
+  <a href="https://twitter.com/AbdoKa101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdoka101" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdo-karchaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdo-karchaoui" height="30" width="40" /></a>
+  <a href="https://abdokarchaoui.vercel.app" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" alt="Portfolio" height="30" width="30" />
+  </a>
+<br /><br />
+
 
 
 ## 💻 Tech Stack
@@ -33,8 +35,8 @@ A passionate Fullstack Developer with a strong foundation in both frontend and b
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br/>
-<p align="left">
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<!--<p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52245687/252022914-259b189a-155e-4be3-ac57-ade3f0bc39fc.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -48,7 +50,7 @@ A passionate Fullstack Developer with a strong foundation in both frontend and b
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<br/><br/>
+</p>   -->
 
 
 ## 📊 My Github Stats
