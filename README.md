@@ -17,6 +17,7 @@ A passionate Fullstack Developer with a strong foundation in both frontend and b
   <a href="https://abdokarchaoui.vercel.app" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/domain.png" alt="Portfolio" height="30" width="30" />
   </a>
+<!--   [<img src="assets/mail2.png" height="30px"/>](mailto:abdessamadkarchaoui@gmail.com) -->
 <br /><br />
 
 
