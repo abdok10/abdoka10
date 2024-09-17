@@ -1,5 +1,7 @@
-##  Hi👋, I'm Abdo Karchaoui
+<img src="assets/linkedIn_cover.jpg" />
 
+
+##  Hi👋, 
 A passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **NextJS, Mern Stack and Laravel** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 <br /><br />
 
