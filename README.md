@@ -7,6 +7,7 @@ I'm a passionate Fullstack Developer with a strong foundation in both frontend a
 
 
 ##  ⚡ Fun facts:
+![profile view count](https://komarev.com/ghpvc/?username=abdok10)
 - 🌱 I’m currently learning Next.js with the help of [Docs](https://nextjs.org/docs/ "Next.js documentation")
 - 📫 For business offers/missions feel free to get in touch with me on [Linkedin](https://www.linkedin.com/in/abdo-karchaoui/ "Linkedin")
 <br /><br />
