@@ -39,7 +39,7 @@ I'm a passionate Fullstack Developer with a strong foundation in both frontend a
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)?
 <!--<p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52245687/252022914-259b189a-155e-4be3-ac57-ade3f0bc39fc.svg" alt="angular" width="40" height="40"/></a>
@@ -57,7 +57,7 @@ I'm a passionate Fullstack Developer with a strong foundation in both frontend a
 </p>   -->
 
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 ![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdok10&show_icons=true&theme=radical)
 <br/>
 <a href="https://github.com/abdok10/github-readme-stats"><img alt="Abdo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdok10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
