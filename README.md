@@ -58,7 +58,12 @@ I'm a passionate Fullstack Developer with a strong foundation in both frontend a
 
 
 ## 📊 My Github Stats:
-![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdok10&show_icons=true&theme=radical)
-<br/>
-<a href="https://github.com/abdok10/github-readme-stats"><img alt="Abdo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdok10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdok10&show_icons=true&theme=react)
+
+<p>
+  <a href="https://github.com/abdok10/github-readme-stats"><img alt="Abdo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdok10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdok10&theme=react&hide_border=true&bg_color=0D1117" alt="abdok10" />
+</p>
